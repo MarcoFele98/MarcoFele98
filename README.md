@@ -1,5 +1,7 @@
-# Who?
-Hey there! I am a PhD candidate in biological sciences at Swansea University, Wales (UK). I am investigating the effect of individual heterogeneity on collective behaviour, wih the aim of developing bio-inspired algorithms for swarm robotics. 
+# Hey there! 
+
+## Who?
+I am a PhD candidate in biological sciences at Swansea University, Wales (UK). I am investigating the effect of individual heterogeneity on collective behaviour, wih the aim of developing bio-inspired algorithms for swarm robotics. 
 
 ## Why ?
 
