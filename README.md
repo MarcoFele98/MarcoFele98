@@ -5,7 +5,7 @@ I am a PhD candidate in biological sciences at Swansea University, Wales (UK). I
 
 ## Why ?
 
-I often play with computational and analytical models by replicating scientific articles, mainly as a personal learning experience. I recently decided to share some of my efforts here, most importantly to document my progress. Furthermore, I have presented some of these projects also at our university journal club, because I think the time investment turns out better if my efforts can also help someone else. DISCLAIMER: I am rendering public my code knowing that there will be bugs and general problems, even more so because I am sharing things I am still learning about.
+I often play with computational and analytical models by replicating scientific articles, mainly as a personal learning experience. I recently decided to share some of my efforts here, most importantly to document my progress. Furthermore, I have presented some of these projects also at our university journal club, because I think the time investment turns out better if my efforts can also help someone else. DISCLAIMER: I am rendering public my code knowing that there will be bugs and general problems, even more so because I am sharing things I am still learning about. Furthermore, despite I give some context and briefly overview the code, the readme of every project does not give a complete explanation of the model. I also try to annotate the code, but I do not go in depth explaing how the code works.
 
 ## What ?
 
