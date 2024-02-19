@@ -5,7 +5,7 @@ I am a PhD candidate in biological sciences at Swansea University, Wales (UK). I
 
 ## Why ?
 
-I often play with computational and analytical models by replicating scientific articles, mainly as a personal learning experience. I recently decided to share some of my efforts here, most importantly to document my progress. I have also presented some of these projects also at our university journal club, because I think the time investment turns out better if my efforts can also help someone else. 
+I often play with computational and analytical models by replicating scientific articles, mainly as a personal learning experience. I recently decided to share some of my efforts here, most importantly to document my progress. I have also presented some of these projects at our university journal club, because I think the time investment turns out better if my efforts can also help someone else. 
 
 ## What ?
 
