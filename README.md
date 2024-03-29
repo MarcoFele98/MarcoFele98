@@ -9,7 +9,7 @@ I often play with computational and analytical models by replicating scientific 
 
 ## What ?
 
-My main passion is collective behaviour, and within collective behaviour, I am mostly interested in group decision-making. Most of the projects hence cover some of these topics. My second passion is evolutionary theory, and I try to squeeze some in whenever I can. Furthermore, I try to engage with models and methods that are new for me, and despite the main topics can be similar, I try to have variety in the specific concepts and techniques applied. 
+My main passion is collective behaviour, and within collective behaviour, I am mostly interested in group decision-making. My second passion is evolutionary theory, and I try to squeeze some in whenever I can.  Most of the projects hence cover some of these topics. Furthermore, I try to engage with models and methods that are new for me, and despite the main topics can be similar, I try to have variety in the specific concepts and techniques applied. 
 
 Cheers! 
 
